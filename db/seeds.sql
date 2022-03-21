@@ -11,7 +11,7 @@ INSERT INTO role
 VALUES
 ('Forklift Driver', 30000, 1),
 ('Stocker', 15000, 1),
-('ASST Manager' 40000, 1),
+('ASST Manager', 40000, 1),
 ('Sales Associate', 10000, 2),
 ('Stocker', 12500, 3),
 ('Guest Services', 20000, 4);
