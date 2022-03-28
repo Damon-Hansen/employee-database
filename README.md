@@ -13,6 +13,10 @@ Go to my github page and fork the code. Then you install the npm packages.
 
 Run node server.js in the command line and select what you would like to do from the options
 
+## Video Walkthrough
+
+https://drive.google.com/file/d/192qNtQ8TnGgteur3THSeLLNJyL2s6jEr/view?usp=sharing
+
 ## Screenshots
 
 ![Capture](https://user-images.githubusercontent.com/95259338/160466808-4c2e15f5-e049-4521-81d6-ae798f0db7be.PNG)
